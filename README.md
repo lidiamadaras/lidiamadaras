@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science student on Erasmus at ELTE
+Computer science student at Sapientia EMTE
 
 
 ## 🌐 Socials:
