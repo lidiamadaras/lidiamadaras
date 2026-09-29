@@ -28,6 +28,57 @@ Full-Stack Software Engineer & MSc Student at Óbuda University
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ---
+
+# 📜 Certificates & Courses
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/000000/oxford-university.png" width="65"/><br><br>
+      <b>AI and Digital Transformation in Government</b><br>
+      <sub>Oxford & Saïd Business School</sub><br>
+      <sub>AI • Digital Transformation • Government</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/000000/cisco.png" width="65"/><br><br>
+      <b>Introduction to Big Data</b><br>
+      <sub>Cisco Networking Academy</sub><br>
+      <sub>Big Data • Data Analytics</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/000000/python.png" width="65"/><br><br>
+      <b>Cleaning Data in Python</b><br>
+      <sub>DataCamp</sub><br>
+      <sub>Python • Data Cleaning • Pandas</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="65"/><br><br>
+      <b>Supervised Learning in scikit-learn</b><br>
+      <sub>DataCamp</sub><br>
+      <sub>Machine Learning • Python • scikit-learn</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="65"/><br><br>
+      <b>Unsupervised Learning in Python</b><br>
+      <sub>DataCamp</sub><br>
+      <sub>Machine Learning • Python • Clustering</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/000000/certificate.png" width="65"/><br><br>
+      <b>More certificates coming...</b><br>
+      <sub>Always learning & building</sub><br>
+      <sub>🚀</sub>
+    </td>
+  </tr>
+</table>
+
+---
 [![](https://visitcount.itsvg.in/api?id=lidiamadaras&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
