@@ -34,14 +34,14 @@ Full-Stack Software Engineer & MSc Student at Óbuda University
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://logowik.com/content/uploads/images/university-of-oxford-said-business-school9703.jpg" width="150"/><br><br>
+      <img src="./OxfordSaid.png" width="120"/><br><br>
       <b>AI and Digital Transformation in Government</b><br>
       <sub>Oxford & Saïd Business School</sub><br>
       <sub>AI • Digital Transformation • Government</sub>
     </td>
 
     <td align="center" width="50%">
-      <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Cisco_Networking_Academy.svg" width="150"/><br><br>
+      <img src="./Cisco.png" width="120"/><br><br>
       <b>Introduction to Big Data</b><br>
       <sub>Cisco Networking Academy</sub><br>
       <sub>Big Data • Data Analytics</sub>
@@ -76,7 +76,5 @@ Full-Stack Software Engineer & MSc Student at Óbuda University
     </td>
   </tr>
 </table>
----
-[![](https://visitcount.itsvg.in/api?id=lidiamadaras&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
