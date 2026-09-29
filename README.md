@@ -33,7 +33,7 @@ Full-Stack Software Engineer & MSc Student at Óbuda University
 <table>
   <tr>
     <td align="center" width="50%">
-  <img src="OxfordSaid.png" width="220"><br><br>
+  <img src="OxfordSaid.png" width="120"><br><br>
   <strong>AI and Digital Transformation in Government</strong><br>
   <sub>Oxford & Saïd Business School</sub><br>
   <sub>AI • Digital Transformation • Government</sub>
